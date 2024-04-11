@@ -1,0 +1,91 @@
+{
+  "cartItems": [
+    {
+      "id": "c6iemp5e0m75qh2g7m20",
+      "cart_id": "c6c71k474bq2hsib2sng",
+      "product_id": "c_111",
+      "quantity": 2,
+      "unit_price": 0,
+      "total_price": 0,
+      "unit_discount": 0,
+      "total_discount": 0,
+      "final_amount": 0,
+      "inforProduct": {
+        "id": 111,
+        "courseId": 302,
+        "duration": 3,
+        "retailPrice": 1200000,
+        "discountPrice": 1000000,
+        "createdAt": "2021-11-29T01:49:28.000Z",
+        "updatedAt": "2021-11-29T01:49:28.000Z",
+        "course": {
+          "introVideo": "https://flextech-dev.s3-ap-southeast-1.amazonaws.com/videos/origin/c6dmikm6t17kl07rg7e0.mp4",
+          "avatar": "https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c6g8nen6oea8qfpq27d0.jpg",
+          "id": 302,
+          "gradeId": 1,
+          "teacherId": "619c4c401b3b4e22b54381c9",
+          "title": "Toán học 22/11",
+          "slug": "toan-hoc-2211",
+          "briefDescription": "<p>Toán học 22/11</p>",
+          "description": "<p>Toán học 22/11</p>",
+          "benefit": "<p>Toán học 22/11</p>",
+          "requirement": "<p>Toán học 22/11</p>",
+          "status": "active",
+          "defaultExerciseId": null,
+          "isFree": false,
+          "isHighlight": true,
+          "purchaseCount": 0,
+          "isHidden": false,
+          "createdAt": "2021-11-22T09:56:31.000Z",
+          "updatedAt": "2021-11-26T07:24:43.000Z",
+          "purchasePackages": [
+            {
+              "id": 111,
+              "courseId": 302,
+              "duration": 3,
+              "retailPrice": 1200000,
+              "discountPrice": 1000000,
+              "createdAt": "2021-11-29T01:49:28.000Z",
+              "updatedAt": "2021-11-29T01:49:28.000Z"
+            }
+          ],
+          "teacher": {
+            "id": "619c4c401b3b4e22b54381c9",
+            "merchant_code": "e-learning",
+            "username": "0372789988",
+            "first_name": "Đinh Mạnh Cường",
+            "phone": "0372789988",
+            "email": "cuonghd121@gmail.com",
+            "attribute_set_id": "6198594b02897f5ee31479d7",
+            "roles": [
+              {
+                "id": "6198597a02897f5ee31479e2",
+                "merchant_code": "e-learning",
+                "name": "TEACHER"
+              }
+            ],
+            "attributes": {
+              "is_locked": 0,
+              "date_of_birth": "0",
+              "register_verification_token": "223359",
+              "introduce": "<p>dqdasdád</p>",
+              "sex": "1",
+              "introduce_video": "videos/origin/c6fm1ce6t17kl07rhh3g.mp4",
+              "avatar": "images/content/c6fjr5u6t17kl07rhh0g.jpg",
+              "actived_at": "1637823683"
+            },
+            "create_at": 1637633088.528,
+            "update_at": 1637834930.247,
+            "active": true
+          }
+        }
+      },
+      "unitPrice": 1000000,
+      "totalPrice": 2000000
+    }
+  ],
+  "totalPrice": 2000000,
+  "totalDiscountPrice": 0,
+  "totalAmount": 2000000,
+  "id": "c6c71k474bq2hsib2sng"
+}

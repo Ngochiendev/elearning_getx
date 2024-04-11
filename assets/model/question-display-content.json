@@ -1,0 +1,38 @@
+{
+  "id":653,
+  "type":"reorder",
+  "title":"Sắp chữ có nghĩa",
+  "content":"",
+  "answerExplanation":"",
+  "sets":[
+    {
+      "id":1669,
+      "content":"Vịnh"
+    },
+    {
+      "id":1670,
+      "content":"Hạ"
+    },
+    {
+      "id":1671,
+      "content":"Long"
+    }
+    ],
+    "items":[
+    ],
+    "answers":[
+    {
+      "id":1669,
+      "content":"Vịnh"
+    },
+    {
+      "id":1670,
+      "content":"Hạ"
+    },
+    {
+      "id":1671,
+      "content":"Long"
+    }
+  ],
+  "isCompleted":false
+}

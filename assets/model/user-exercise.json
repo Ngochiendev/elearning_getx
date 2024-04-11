@@ -1,0 +1,161 @@
+{
+    "exercise": {
+      "id": 86,
+      "library": "course",
+      "title": "Cùng em vui đọc 1",
+      "description": "là một quyển sách hay và ý nghĩa ",
+      "duration": 5,
+      "totalPoints": 12,
+      "status": "active",
+      "isShuffle": true,
+      "displayType": "all",
+      "createdAt": "2021-10-29T09:31:39.000Z",
+      "updatedAt": "2021-11-09T04:01:52.000Z"
+    },
+    "userExercise": {
+      "id": 352,
+      "exercisableType": "courseSessions",
+      "exercisableId": 398,
+      "exerciseId": 86,
+      "title": "Cùng em vui đọc 1",
+      "description": "là một quyển sách hay và ý nghĩa ",
+      "status": "inprogress",
+      "duration": 5,
+      "createdAt": "2021-11-09T07:00:12.000Z",
+      "updatedAt": "2021-11-09T07:00:12.000Z",
+      "questions": [
+        {
+          "id": 3487,
+          "userExerciseId": 352,
+          "questionType": "miniGame",
+          "displayContent": "{\"id\":653,\"type\":\"reorder\",\"title\":\"Sắp chữ có nghĩa\",\"content\":\"\",\"answerExplanation\":\"\",\"sets\":[{\"id\":1669,\"content\":\"Vịnh\"},{\"id\":1670,\"content\":\"Hạ\"},{\"id\":1671,\"content\":\"Long\"}],\"items\":[],\"answers\":[{\"id\":1669,\"content\":\"Vịnh\"},{\"id\":1670,\"content\":\"Hạ\"},{\"id\":1671,\"content\":\"Long\"}],\"isCompleted\":false}",
+          "goalContent": "{\"id\":653,\"type\":\"reorder\",\"title\":\"Sắp chữ có nghĩa\",\"content\":\"\",\"answerExplanation\":\"\",\"sets\":[{\"id\":1669,\"content\":\"Vịnh\"},{\"id\":1670,\"content\":\"Hạ\"},{\"id\":1671,\"content\":\"Long\"}],\"items\":[],\"answers\":[{\"id\":1669,\"content\":\"Vịnh\"},{\"id\":1670,\"content\":\"Hạ\"},{\"id\":1671,\"content\":\"Long\"}]}",
+          "allocatedPoint": 1,
+          "pointEarned": null,
+          "createdAt": "2021-11-09T07:00:12.000Z",
+          "updatedAt": "2021-11-09T07:00:12.000Z"
+        },
+        {
+          "id": 3488,
+          "userExerciseId": 352,
+          "questionType": "miniGame",
+          "displayContent": "{\"id\":679,\"type\":\"reorder\",\"title\":\"kéo thả từ thành câu\",\"content\":\"chúng ta, là áng mây, bên trời\",\"answerExplanation\":\"câu văn\",\"sets\":[{\"id\":1741,\"content\":\"chúng ta\"},{\"id\":1742,\"content\":\"bên trời\"},{\"id\":1743,\"content\":\"là áng mây\"}],\"items\":[],\"answers\":[{\"id\":1741,\"content\":\"chúng ta\"},{\"id\":1742,\"content\":\"bên trời\"},{\"id\":1743,\"content\":\"là áng mây\"}],\"isCompleted\":false}",
+          "goalContent": "{\"id\":679,\"type\":\"reorder\",\"title\":\"kéo thả từ thành câu\",\"content\":\"chúng ta, là áng mây, bên trời\",\"answerExplanation\":\"câu văn\",\"sets\":[{\"id\":1741,\"content\":\"chúng ta\"},{\"id\":1742,\"content\":\"bên trời\"},{\"id\":1743,\"content\":\"là áng mây\"}],\"items\":[],\"answers\":[{\"id\":1741,\"content\":\"chúng ta\"},{\"id\":1742,\"content\":\"bên trời\"},{\"id\":1743,\"content\":\"là áng mây\"}]}",
+          "allocatedPoint": 1,
+          "pointEarned": null,
+          "createdAt": "2021-11-09T07:00:12.000Z",
+          "updatedAt": "2021-11-09T07:00:12.000Z"
+        },
+        {
+          "id": 3489,
+          "userExerciseId": 352,
+          "questionType": "miniGame",
+          "displayContent": "{\"id\":674,\"type\":\"textAnswer\",\"title\":\"MiniGame trong lúc học trực tuyến\",\"content\":\"<audio controls><source src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/files/normal/c61vhrq23akg00ehj9ug/file-upload.mpeg\\\"></audio>\",\"answerExplanation\":\"Gợi ý dành cho đáp án\",\"sets\":[{\"id\":1726,\"content\":\"Đáp án câu đố.\"}],\"items\":[],\"answers\":[{\"id\":1726,\"content\":\"Đáp án câu đố.\"}],\"isCompleted\":false}",
+          "goalContent": "{\"id\":674,\"type\":\"textAnswer\",\"title\":\"MiniGame trong lúc học trực tuyến\",\"content\":\"<audio controls><source src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/files/normal/c61vhrq23akg00ehj9ug/file-upload.mpeg\\\"></audio>\",\"answerExplanation\":\"Gợi ý dành cho đáp án\",\"sets\":[{\"id\":1726,\"content\":\"Đáp án câu đố.\"}],\"items\":[],\"answers\":[{\"id\":1726,\"content\":\"Đáp án câu đố.\"}]}",
+          "allocatedPoint": 1,
+          "pointEarned": null,
+          "createdAt": "2021-11-09T07:00:12.000Z",
+          "updatedAt": "2021-11-09T07:00:12.000Z"
+        },
+        {
+          "id": 3490,
+          "userExerciseId": 352,
+          "questionType": "miniGame",
+          "displayContent": "{\"id\":676,\"type\":\"listening\",\"title\":\"Chọn hình\",\"content\":\"<audio controls><source src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/files/normal/c61vhs223akg00ehj9vg/file-upload.mpeg\\\"></audio>\",\"answerExplanation\":\"Quả cam và quả nho\",\"sets\":[{\"id\":1732,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhs7nvvlg8msohme0.jpg\\\"/>\"},{\"id\":1733,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhs7nvvlg8msohmeg.jpg\\\"/>\"},{\"id\":1734,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhs7nvvlg8msohmdg.jpg\\\"/>\"}],\"items\":[],\"answers\":[{\"id\":1732,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhs7nvvlg8msohme0.jpg\\\"/>\"}],\"isCompleted\":false}",
+          "goalContent": "{\"id\":676,\"type\":\"listening\",\"title\":\"Chọn hình\",\"content\":\"<audio controls><source src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/files/normal/c61vhs223akg00ehj9vg/file-upload.mpeg\\\"></audio>\",\"answerExplanation\":\"Quả cam và quả nho\",\"sets\":[{\"id\":1732,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhs7nvvlg8msohme0.jpg\\\"/>\"},{\"id\":1733,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhs7nvvlg8msohmeg.jpg\\\"/>\"},{\"id\":1734,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhs7nvvlg8msohmdg.jpg\\\"/>\"}],\"items\":[],\"answers\":[{\"id\":1732,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhs7nvvlg8msohme0.jpg\\\"/>\"}]}",
+          "allocatedPoint": 1,
+          "pointEarned": null,
+          "createdAt": "2021-11-09T07:00:12.000Z",
+          "updatedAt": "2021-11-09T07:00:12.000Z"
+        },
+        {
+          "id": 3491,
+          "userExerciseId": 352,
+          "questionType": "question",
+          "displayContent": "{\"id\":782,\"type\":\"speaking\",\"title\":null,\"content\":\"<p>cà phê nhân phẩm</p>\",\"children\":[],\"subQuestions\":[],\"filledAnswer\":null}",
+          "goalContent": "{\"id\":782,\"type\":\"speaking\",\"title\":null,\"content\":\"<p>cà phê nhân phẩm</p>\",\"answerExplanation\":\"\",\"children\":[],\"subQuestions\":[],\"choices\":[{\"id\":1438,\"content\":\"cà phê\",\"isCorrect\":true}]}",
+          "allocatedPoint": 1,
+          "pointEarned": null,
+          "createdAt": "2021-11-09T07:00:12.000Z",
+          "updatedAt": "2021-11-09T07:00:12.000Z"
+        },
+        {
+          "id": 3492,
+          "userExerciseId": 352,
+          "questionType": "miniGame",
+          "displayContent": "{\"id\":675,\"type\":\"listening\",\"title\":\"Lắng nghe âm thanh\",\"content\":\"<audio controls><source src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/files/normal/c61vhrq23akg00ehj9v0/file-upload.mpeg\\\"></audio>\",\"answerExplanation\":\"Gợi ý, chú giải dành cho đáp án.\",\"sets\":[{\"id\":1727,\"content\":\"Đáp án 1\"},{\"id\":1728,\"content\":\"Đáp án 2\"},{\"id\":1729,\"content\":\"Đáp án 3\"},{\"id\":1730,\"content\":\"Đáp án 4\"},{\"id\":1731,\"content\":\"Đáp án 5\"}],\"items\":[],\"answers\":[{\"id\":1729,\"content\":\"Đáp án 3\"}],\"isCompleted\":false}",
+          "goalContent": "{\"id\":675,\"type\":\"listening\",\"title\":\"Lắng nghe âm thanh\",\"content\":\"<audio controls><source src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/files/normal/c61vhrq23akg00ehj9v0/file-upload.mpeg\\\"></audio>\",\"answerExplanation\":\"Gợi ý, chú giải dành cho đáp án.\",\"sets\":[{\"id\":1727,\"content\":\"Đáp án 1\"},{\"id\":1728,\"content\":\"Đáp án 2\"},{\"id\":1729,\"content\":\"Đáp án 3\"},{\"id\":1730,\"content\":\"Đáp án 4\"},{\"id\":1731,\"content\":\"Đáp án 5\"}],\"items\":[],\"answers\":[{\"id\":1729,\"content\":\"Đáp án 3\"}]}",
+          "allocatedPoint": 1,
+          "pointEarned": null,
+          "createdAt": "2021-11-09T07:00:12.000Z",
+          "updatedAt": "2021-11-09T07:00:12.000Z"
+        },
+        {
+          "id": 3493,
+          "userExerciseId": 352,
+          "questionType": "miniGame",
+          "displayContent": "{\"id\":681,\"type\":\"matchingHidden\",\"title\":\"Tìm hình thích hợp\",\"content\":\"Ghép thẻ\",\"answerExplanation\":\"Giải thích câu đố\",\"sets\":[{\"id\":1747,\"content\":\"logo\"},{\"id\":1748,\"content\":\"Go\"},{\"id\":1749,\"content\":\"Avenger\"}],\"items\":[{\"id\":706,\"content\":\"Go\",\"answers\":[{\"id\":1748,\"content\":\"Go\"}]},{\"id\":707,\"content\":\"Logo\",\"answers\":[{\"id\":1747,\"content\":\"logo\"}]},{\"id\":708,\"content\":\"Avenger\",\"answers\":[{\"id\":1749,\"content\":\"Avenger\"}]}],\"answers\":[],\"isCompleted\":false}",
+          "goalContent": "{\"id\":681,\"type\":\"matchingHidden\",\"title\":\"Tìm hình thích hợp\",\"content\":\"Ghép thẻ\",\"answerExplanation\":\"Giải thích câu đố\",\"sets\":[{\"id\":1747,\"content\":\"logo\"},{\"id\":1748,\"content\":\"Go\"},{\"id\":1749,\"content\":\"Avenger\"}],\"items\":[{\"id\":706,\"content\":\"Go\",\"answers\":[{\"id\":1748,\"content\":\"Go\"}]},{\"id\":707,\"content\":\"Logo\",\"answers\":[{\"id\":1747,\"content\":\"logo\"}]},{\"id\":708,\"content\":\"Avenger\",\"answers\":[{\"id\":1749,\"content\":\"Avenger\"}]}],\"answers\":[]}",
+          "allocatedPoint": 1,
+          "pointEarned": null,
+          "createdAt": "2021-11-09T07:00:12.000Z",
+          "updatedAt": "2021-11-09T07:00:12.000Z"
+        },
+        {
+          "id": 3494,
+          "userExerciseId": 352,
+          "questionType": "miniGame",
+          "displayContent": "{\"id\":677,\"type\":\"dragAndDrop\",\"title\":\"Sắp xếp theo hình\",\"content\":\"Kéo thả\",\"answerExplanation\":\"Di chuyển các hình để tạo thành hình hoàn chỉnh\",\"sets\":[{\"id\":1735,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmf0.jpg\\\"/>\"},{\"id\":1736,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmh0.jpg\\\"/>\"},{\"id\":1737,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmg0.jpg\\\"/>\"}],\"items\":[{\"id\":697,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmfg.jpg\\\"/>\",\"answers\":[{\"id\":1737,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmg0.jpg\\\"/>\"}]},{\"id\":698,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmgg.jpg\\\"/>\",\"answers\":[{\"id\":1735,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmf0.jpg\\\"/>\"}]},{\"id\":699,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmhg.jpg\\\"/>\",\"answers\":[{\"id\":1736,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmh0.jpg\\\"/>\"}]}],\"answers\":[],\"isCompleted\":false}",
+          "goalContent": "{\"id\":677,\"type\":\"dragAndDrop\",\"title\":\"Sắp xếp theo hình\",\"content\":\"Kéo thả\",\"answerExplanation\":\"Di chuyển các hình để tạo thành hình hoàn chỉnh\",\"sets\":[{\"id\":1735,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmf0.jpg\\\"/>\"},{\"id\":1736,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmh0.jpg\\\"/>\"},{\"id\":1737,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmg0.jpg\\\"/>\"}],\"items\":[{\"id\":697,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmfg.jpg\\\"/>\",\"answers\":[{\"id\":1737,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmg0.jpg\\\"/>\"}]},{\"id\":698,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmgg.jpg\\\"/>\",\"answers\":[{\"id\":1735,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmf0.jpg\\\"/>\"}]},{\"id\":699,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmhg.jpg\\\"/>\",\"answers\":[{\"id\":1736,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsfnvvlg8msohmh0.jpg\\\"/>\"}]}],\"answers\":[]}",
+          "allocatedPoint": 1,
+          "pointEarned": null,
+          "createdAt": "2021-11-09T07:00:12.000Z",
+          "updatedAt": "2021-11-09T07:00:12.000Z"
+        },
+        {
+          "id": 3495,
+          "userExerciseId": 352,
+          "questionType": "miniGame",
+          "displayContent": "{\"id\":680,\"type\":\"matchingShow\",\"title\":\"Tìm hình thích hợp\",\"content\":\"Ghép thẻ\",\"answerExplanation\":\"Giải thích câu đố\",\"sets\":[{\"id\":1744,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmi0.jpg\\\"/>\"},{\"id\":1745,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmj0.jpg\\\"/>\"},{\"id\":1746,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmk0.jpg\\\"/>\"}],\"items\":[{\"id\":703,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmig.jpg\\\"/>\",\"answers\":[{\"id\":1745,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmj0.jpg\\\"/>\"}]},{\"id\":704,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmjg.jpg\\\"/>\",\"answers\":[{\"id\":1744,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmi0.jpg\\\"/>\"}]},{\"id\":705,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsvnvvlg8msohmkg.jpg\\\"/>\",\"answers\":[{\"id\":1746,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmk0.jpg\\\"/>\"}]}],\"answers\":[],\"isCompleted\":false}",
+          "goalContent": "{\"id\":680,\"type\":\"matchingShow\",\"title\":\"Tìm hình thích hợp\",\"content\":\"Ghép thẻ\",\"answerExplanation\":\"Giải thích câu đố\",\"sets\":[{\"id\":1744,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmi0.jpg\\\"/>\"},{\"id\":1745,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmj0.jpg\\\"/>\"},{\"id\":1746,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmk0.jpg\\\"/>\"}],\"items\":[{\"id\":703,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmig.jpg\\\"/>\",\"answers\":[{\"id\":1745,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmj0.jpg\\\"/>\"}]},{\"id\":704,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmjg.jpg\\\"/>\",\"answers\":[{\"id\":1744,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmi0.jpg\\\"/>\"}]},{\"id\":705,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsvnvvlg8msohmkg.jpg\\\"/>\",\"answers\":[{\"id\":1746,\"content\":\"<img src=\\\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c61vhsnnvvlg8msohmk0.jpg\\\"/>\"}]}],\"answers\":[]}",
+          "allocatedPoint": 1,
+          "pointEarned": null,
+          "createdAt": "2021-11-09T07:00:12.000Z",
+          "updatedAt": "2021-11-09T07:00:12.000Z"
+        },
+        {
+          "id": 3496,
+          "userExerciseId": 352,
+          "questionType": "miniGame",
+          "displayContent": "{\"id\":711,\"type\":\"dragAndDrop\",\"title\":\"9/11 Kéo thả\",\"content\":\"\",\"answerExplanation\":\"<p>aaaa</p>\",\"sets\":[{\"id\":1823,\"content\":\"<p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>\"},{\"id\":1824,\"content\":\"<p>bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</p>\"},{\"id\":1825,\"content\":\"<p>cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc</p>\"},{\"id\":1826,\"content\":\"<p>dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p>\"},{\"id\":1827,\"content\":\"<p>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</p>\"}],\"items\":[{\"id\":755,\"content\":\"<p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>\",\"answers\":[{\"id\":1823,\"content\":\"<p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>\"}]},{\"id\":756,\"content\":\"<p>bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</p>\",\"answers\":[{\"id\":1824,\"content\":\"<p>bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</p>\"}]},{\"id\":757,\"content\":\"<p>cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc</p>\",\"answers\":[{\"id\":1825,\"content\":\"<p>cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc</p>\"}]},{\"id\":758,\"content\":\"<p>dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p>\",\"answers\":[{\"id\":1826,\"content\":\"<p>dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p>\"}]},{\"id\":759,\"content\":\"<p>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</p>\",\"answers\":[{\"id\":1827,\"content\":\"<p>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</p>\"}]}],\"answers\":[],\"isCompleted\":false}",
+          "goalContent": "{\"id\":711,\"type\":\"dragAndDrop\",\"title\":\"9/11 Kéo thả\",\"content\":\"\",\"answerExplanation\":\"<p>aaaa</p>\",\"sets\":[{\"id\":1823,\"content\":\"<p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>\"},{\"id\":1824,\"content\":\"<p>bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</p>\"},{\"id\":1825,\"content\":\"<p>cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc</p>\"},{\"id\":1826,\"content\":\"<p>dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p>\"},{\"id\":1827,\"content\":\"<p>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</p>\"}],\"items\":[{\"id\":755,\"content\":\"<p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>\",\"answers\":[{\"id\":1823,\"content\":\"<p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>\"}]},{\"id\":756,\"content\":\"<p>bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</p>\",\"answers\":[{\"id\":1824,\"content\":\"<p>bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</p>\"}]},{\"id\":757,\"content\":\"<p>cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc</p>\",\"answers\":[{\"id\":1825,\"content\":\"<p>cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc</p>\"}]},{\"id\":758,\"content\":\"<p>dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p>\",\"answers\":[{\"id\":1826,\"content\":\"<p>dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p>\"}]},{\"id\":759,\"content\":\"<p>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</p>\",\"answers\":[{\"id\":1827,\"content\":\"<p>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</p>\"}]}],\"answers\":[]}",
+          "allocatedPoint": 1,
+          "pointEarned": null,
+          "createdAt": "2021-11-09T07:00:12.000Z",
+          "updatedAt": "2021-11-09T07:00:12.000Z"
+        },
+        {
+          "id": 3497,
+          "userExerciseId": 352,
+          "questionType": "miniGame",
+          "displayContent": "{\"id\":678,\"type\":\"dragAndDrop\",\"title\":\"Tìm hình thích hợp\",\"content\":\"Kéo thả\",\"answerExplanation\":\"Di chuyển từ tới ô thích hợp\",\"sets\":[{\"id\":1738,\"content\":\"Hand\"},{\"id\":1739,\"content\":\"Big\"},{\"id\":1740,\"content\":\"Ball\"}],\"items\":[{\"id\":700,\"content\":\"Ball\",\"answers\":[{\"id\":1740,\"content\":\"Ball\"}]},{\"id\":701,\"content\":\"Hand\",\"answers\":[{\"id\":1738,\"content\":\"Hand\"}]},{\"id\":702,\"content\":\"Big\",\"answers\":[{\"id\":1739,\"content\":\"Big\"}]}],\"answers\":[],\"isCompleted\":false}",
+          "goalContent": "{\"id\":678,\"type\":\"dragAndDrop\",\"title\":\"Tìm hình thích hợp\",\"content\":\"Kéo thả\",\"answerExplanation\":\"Di chuyển từ tới ô thích hợp\",\"sets\":[{\"id\":1738,\"content\":\"Hand\"},{\"id\":1739,\"content\":\"Big\"},{\"id\":1740,\"content\":\"Ball\"}],\"items\":[{\"id\":700,\"content\":\"Ball\",\"answers\":[{\"id\":1740,\"content\":\"Ball\"}]},{\"id\":701,\"content\":\"Hand\",\"answers\":[{\"id\":1738,\"content\":\"Hand\"}]},{\"id\":702,\"content\":\"Big\",\"answers\":[{\"id\":1739,\"content\":\"Big\"}]}],\"answers\":[]}",
+          "allocatedPoint": 1,
+          "pointEarned": null,
+          "createdAt": "2021-11-09T07:00:12.000Z",
+          "updatedAt": "2021-11-09T07:00:12.000Z"
+        },
+        {
+          "id": 3498,
+          "userExerciseId": 352,
+          "questionType": "miniGame",
+          "displayContent": "{\"id\":673,\"type\":\"textAnswer\",\"title\":\"MiniGame 1\",\"content\":\"Nội dung câu đố/hỏi.\",\"answerExplanation\":\"Gợi ý, chú giải dành cho đáp án.\",\"sets\":[{\"id\":1725,\"content\":\"Đáp án nằm ở, đây, có phân biệt dấu ngắt câu.\"}],\"items\":[],\"answers\":[{\"id\":1725,\"content\":\"Đáp án nằm ở, đây, có phân biệt dấu ngắt câu.\"}],\"isCompleted\":false}",
+          "goalContent": "{\"id\":673,\"type\":\"textAnswer\",\"title\":\"MiniGame 1\",\"content\":\"Nội dung câu đố/hỏi.\",\"answerExplanation\":\"Gợi ý, chú giải dành cho đáp án.\",\"sets\":[{\"id\":1725,\"content\":\"Đáp án nằm ở, đây, có phân biệt dấu ngắt câu.\"}],\"items\":[],\"answers\":[{\"id\":1725,\"content\":\"Đáp án nằm ở, đây, có phân biệt dấu ngắt câu.\"}]}",
+          "allocatedPoint": 1,
+          "pointEarned": null,
+          "createdAt": "2021-11-09T07:00:12.000Z",
+          "updatedAt": "2021-11-09T07:00:12.000Z"
+        }
+      ]
+    }
+  }

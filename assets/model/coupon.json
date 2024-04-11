@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "code": "EIWD5Y",
+  "discountType": "amount",
+  "programType": "totalBill",
+  "description": "demo",
+  "title": "Giảm giá",
+  "amount": 100000,
+  "packageId": "",
+  "adminId": "",
+  "isActive": true,
+  "appliedAt": "2021-10-31T17:00:00.000Z",
+  "appliedTo": "2021-12-16T17:00:00.000Z",
+  "createdAt": "2021-11-22T09:25:39.000Z",
+  "updatedAt": "2021-11-22T09:25:39.000Z",
+  "deletedAt": "2021-11-22T09:25:39.000Z",
+  "package": null
+}

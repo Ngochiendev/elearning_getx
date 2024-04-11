@@ -1,0 +1,47 @@
+{
+  "message": "",
+  "data": {
+    "id": "61b18d43fb6ea656820b1070",
+    "merchant_code": "e-learning",
+    "username": "soanlv0087",
+    "first_name": "luu",
+    "last_name": "viet soan",
+    "email": "dikoje6283@gruppies.com",
+    "attribute_set_id": "6198594802897f5ee31479cc",
+    "roles": [
+      {
+        "id": "6198597b02897f5ee31479e3",
+        "merchant_code": "e-learning",
+        "name": "USER"
+      }
+    ],
+    "attributes": {
+      "parent_email": "luu@gmail.com",
+      "date_of_birth": 2208988800,
+      "register_verification_token": "406839",
+      "sex": 1,
+      "avatar": "",
+      "province_idsf": "",
+      "actived_at": "1639026056",
+      "token_verify": "",
+      "province": "",
+      "school": "",
+      "phone": "0358970034",
+      "province_id": "7",
+      "forgot_password_expire_at": "",
+      "forgot_password_token": "",
+      "class": ""
+    },
+    "create_at": 1639025987.37,
+    "update_at": 1639028636.521,
+    "active": true,
+    "province": {
+      "id": 7,
+      "code": "11",
+      "title": "Tỉnh Điện Biên",
+      "createdAt": null,
+      "updatedAt": null
+    },
+    "phone": "0358970034"
+  }
+}

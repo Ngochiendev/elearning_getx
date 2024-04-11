@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319981754217",
+    "project_id": "elearning-smartschool",
+    "storage_bucket": "elearning-smartschool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319981754217:android:7a7f24bfd2716705694ff8",
+        "android_client_info": {
+          "package_name": "vn.flextech.elearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319981754217-c6kefsdglt442psp5qitcetsc8b0o8a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX_ohp_GC4iL183cNg438m70QpkHQ1-yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319981754217-c6kefsdglt442psp5qitcetsc8b0o8a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

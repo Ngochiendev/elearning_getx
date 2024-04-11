@@ -1,0 +1,41 @@
+{
+  "general": {
+    "appName": "E-learning",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "submit": "Hoàn thành",
+    "confirm": "Xác nhận",
+    "continue": "Tiếp tục",
+    "remove": "Xóa",
+    "update": "Cập nhật",
+    "signUp": "Đăng ký",
+    "signIn": "Đăng nhập",
+    "phone": "Số điện thoại",
+    "changePassword": "Đổi mật khẩu",
+    "forgotPassword": "Quên mật khẩu",
+    "support": "Hỗ trợ",
+    "hotline": "02436983062"
+  },
+  "label": {
+    "home": "Trang chủ",
+    "search": "Tìm kiếm",
+    "notification": "Thông báo",
+    "profile": "Cá nhân",
+    "course": "Khóa học",
+    "ebook": "Sách điện tử",
+    "testOnline": "Thi Online",
+    "phOnline": "PH Online",
+    "question": "Bộ đề",
+    "deposit": "Nạp tiền",
+    "evaluation": "Đánh Giá",
+    "aboutus": "Về chúng tôi",
+    "appreviews": "Đánh giá ứng dụng",
+    "version": "Phiên bản",
+    "terms": "Điều Khoản",
+    "logOut": "Đăng xuất",
+    "email": "Email",
+    "emailotp": "Mã OTP trong email",
+    "passwordnew": "Mật khẩu mới",
+    "printpasswordnew": "Nhập lại"
+  }
+}

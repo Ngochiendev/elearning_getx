@@ -1,0 +1,71 @@
+{
+  "id": 513,
+  "type": "leadingQuestion",
+  "title": null,
+  "content": "<p>Câu hỏi 1</p>",
+  "answerExplanation": null,
+  "children": [
+    {
+      "id": 514,
+      "type": "multipleChoice",
+      "title": null,
+      "content": "<img src=\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c5shs9pe0md99mq5d970.jpg\"/>",
+      "answerExplanation": null,
+      "subQuestions": [],
+      "choices": [
+        {
+          "id": 908,
+          "content": "<img src=\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c5shsa1e0md99mq5d980.jpg\"/>",
+          "isCorrect": true
+        },
+        {
+          "id": 909,
+          "content": "<img src=\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c5shsa1e0md99mq5d98g.jpg\"/>",
+          "isCorrect": false
+        },
+        {
+          "id": 910,
+          "content": "<img src=\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c5shsa1e0md99mq5d97g.jpg\"/>",
+          "isCorrect": false
+        },
+        {
+          "id": 911,
+          "content": "<img src=\"https://flextech-dev.s3-ap-southeast-1.amazonaws.com/images/content/c5shsa9e0md99mq5d990.jpg\"/>",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 515,
+      "type": "singleChoice",
+      "title": null,
+      "content": "<p>Câu hỏi phụ 1</p>",
+      "answerExplanation": null,
+      "subQuestions": [],
+      "choices": [
+        {
+          "id": 912,
+          "content": "<p>Đáp án 2</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 913,
+          "content": "<p>Đáp án 1</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 914,
+          "content": "<p>Đáp án 3</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 915,
+          "content": "<p>Đáp án 4</p>",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "subQuestions": [],
+  "choices": []
+}

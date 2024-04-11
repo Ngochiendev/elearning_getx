@@ -1,0 +1,12 @@
+exclude:
+  - .env
+  - .env.dev
+include:
+  - "assets/png/*.png"
+  - "assets/svg/*.svg"
+  - "assets/gif/*.gif"
+  - "assets/anim/*.json"
+  - "assets/mp3/*.mp3"
+  - "assets/minigame/*.gif"
+  - "assets/minigame/*.png"
+  - "assets/minigame/*.svg"
